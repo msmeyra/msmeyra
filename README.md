@@ -3,9 +3,9 @@
 
 ### 👤 `$ me`
 
-* 🎓 **University Student**
-* 📍 Based in **France**
-* 🔭 **Python Enthusiast**
+* 🎓 University Student
+* 📍 Based in France
+* 🔭 Python Enthusiast
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png" width="100%">
 
