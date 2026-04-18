@@ -1,14 +1,19 @@
 ## Hi there 👋🏾
 
----
 
 ### 👤 `$ me`
 
-* 🎓 Uni student
-* 📍 France
-* 🔭 Python Enthusiastic
+* 🎓 **University Student**
+* 📍 Based in **France**
+* 🔭 **Python Enthusiast**
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png" width="100%">
 
+### 💻 `$ skills`
+
+* 🐍 Python, HTML/CSS
+* 🛠️ Git, VS Code
+  
 <!--
 **msmeyra/msmeyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
