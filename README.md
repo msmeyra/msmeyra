@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi there 👋🏾
 
-Uni student
 
 ### 👤 `$ me`
 
