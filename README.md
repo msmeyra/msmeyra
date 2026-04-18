@@ -2,7 +2,7 @@
 
 Uni student
 
-$Who am I?
+### 👤 `$ about me`
 ---
 
 🔭 Python Enthusiastic
