@@ -2,10 +2,12 @@
 
 Uni student
 
-### 👤 `$ about me`
----
+### 👤 `$ me`
 
-🔭 Python Enthusiastic
+* 🎓 Uni student
+* 📍 France
+* 🔭 Python Enthusiastic
+
 
 <!--
 **msmeyra/msmeyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
